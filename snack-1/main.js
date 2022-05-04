@@ -1,5 +1,5 @@
-const firstNumber = Number(prompt('inserisci primo nummero:'));
-const secondNumber = Number(prompt('inserisci secondo nummero:'));
+const firstNumber = Number(prompt('inserisci primo numero:'));
+const secondNumber = Number(prompt('inserisci secondo numero:'));
 
 console.log(firstNumber ,secondNumber);
 
