@@ -2,6 +2,8 @@
 const nomi = ['Pippo', 'Pluto', 'Paperino'];
 const colori = ['Bianco', 'Verde', 'Rosso', 'Blu', 'Giallo'];
 
+//const colori = ['Bianco', 'Verde'];
+
 let newArray = [];
 let firstIsLonger = false;
 let offset;
