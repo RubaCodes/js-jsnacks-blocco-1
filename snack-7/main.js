@@ -6,3 +6,5 @@ const cognomi = ['Rossi','Verdi','Bianchi'];
 const indexNomi = Math.floor(Math.random() * 3);
 const indexCognomi = Math.floor(Math.random() * 3);
 
+const randomName =  `${nomi[indexNomi]} ${cognomi[indexCognomi]}`;
+console.log(randomName);
