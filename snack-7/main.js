@@ -2,3 +2,7 @@
 
 const nomi = ['Pippo','Paperino', 'Pluto'];
 const cognomi = ['Rossi','Verdi','Bianchi'];
+
+const indexNomi = Math.floor(Math.random() * 3);
+const indexCognomi = Math.floor(Math.random() * 3);
+
