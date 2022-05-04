@@ -2,9 +2,10 @@
 
 const nomi = ['Pippo','Paperino', 'Pluto'];
 const cognomi = ['Rossi','Verdi','Bianchi'];
-
+//calcolo index random 0-2
 const indexNomi = Math.floor(Math.random() * 3);
 const indexCognomi = Math.floor(Math.random() * 3);
-
+//chain stringa
 const randomName =  `${nomi[indexNomi]} ${cognomi[indexCognomi]}`;
+// log nome
 console.log(randomName);
