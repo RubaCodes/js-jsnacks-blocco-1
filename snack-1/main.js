@@ -1,6 +1,8 @@
 const firstNumber = Number(prompt('inserisci primo nummero:'));
 const secondNumber = Number(prompt('inserisci secondo nummero:'));
 
+console.log(firstNumber ,secondNumber);
+
 if(firstNumber > secondNumber){
     console.log('primo numero maggiore del secondo');
 } else if(firstNumber < secondNumber){
