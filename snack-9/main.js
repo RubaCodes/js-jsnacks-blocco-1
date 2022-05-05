@@ -5,7 +5,6 @@ const colori = ['Bianco', 'Verde', 'Rosso', 'Giallo', 'Arancione'];
 //const colori = ['Bianco', 'Verde'];
 
 let newArray = [];
-let firstIsLonger;
 let offset;
 if (nomi.length > colori.length) {
     offset = nomi.length - colori.length;
